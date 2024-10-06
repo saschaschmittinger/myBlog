@@ -1,0 +1,41 @@
+---
+import { type CollectionEntry, getCollection } from 'astro:content'
+import DefaultLayout from '../../layouts/Default.astro'
+import InteriorHero from '../../components/InteriorHero.astro'
+import { Tag } from '../../sections/Tag'
+import { getPostColorFromCategory } from '../../utils/postUtils'
+
+//import BlogPost from '../../layouts/BlogPost.astro';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('blog')
+	return posts.map((post) => ({
+		params: { slug: post.slug },
+		props: post
+	}))
+}
+
+type Props = CollectionEntry<'blog'>
+
+const post: Props = Astro.props
+const {
+	data: { category, title, description }
+} = post
+const { Content } = await post.render()
+---
+
+<DefaultLayout>
+	<InteriorHero>
+		<div class="relative">
+			<div class="flex justify-center">
+				<Tag color={getPostColorFromCategory(category)}> {category} </Tag>
+			</div>
+			<h1 class="mt-4 text-center font-heading text-7xl font-black">{title}</h1>
+			<p class="mx-auto mt-8 max-w-2xl text-center text-xl text-zinc-400">{description}</p>
+			<div class="mt-8 flex flex-col items-center">
+				<div class="size-16 rounded-full bg-zinc-700 bg-cover bg-center"></div>
+			</div>
+		</div>
+	</InteriorHero>
+	<Content />
+</DefaultLayout>
