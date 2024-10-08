@@ -5,8 +5,8 @@ pubDate: '2024-08-16'
 category: Security
 slug: 'blockchain-security-protecting-digital-assets'
 author:
-  name: 'Sascha Schmittinger CEO'
-  title: 'Sr. Developer - BlockWorld'
+  name: 'Sascha Schmittinger'
+  title: 'CEO SSC Consult'
   image: '/assets/images/john.jpg'
 ---
 

@@ -5,8 +5,8 @@ pubDate: '2024-08-15'
 category: Sustainability
 slug: 'environmental-impact-of-blockchain'
 author:
-  name: 'Sascha Schmittinger CEO'
-  title: 'Sr. Developer - BlockWorld'
+  name: 'Sascha Schmittinger'
+  title: 'CEO SSC Consult'
   image: '/assets/images/john.jpg'
 ---
 

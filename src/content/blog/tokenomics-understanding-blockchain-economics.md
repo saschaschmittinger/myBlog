@@ -5,8 +5,8 @@ pubDate: '2024-08-14'
 category: Technology
 slug: 'tokenomics-understanding-blockchain-economics'
 author:
-  name: 'Sascha Schmittinger CEO'
-  title: 'Blockchain Analyst - ChainWave'
+  name: 'Sascha Schmittinger'
+  title: 'CEO SSC Consult'
   image: '/assets/images/alice.jpg'
 ---
 

@@ -5,8 +5,8 @@ pubDate: '2024-08-20'
 category: Technology
 slug: 'regulatory-challenges-facing-blockchain'
 author:
-  name: 'Sascha Schmittinger CEO'
-  title: 'Blockchain Analyst - ChainWave'
+  name: 'Sascha Schmittinger'
+  title: 'CEO SSC Consult'
   image: '/assets/images/alice.jpg'
 ---
 

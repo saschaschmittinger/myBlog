@@ -5,8 +5,8 @@ pubDate: '2024-08-05'
 category: Technology
 slug: 'how-nfts-changing-digital-ownership'
 author:
-  name: 'Sascha Schmittinger CEO'
-  title: 'Lead Researcher - BlockLink'
+  name: 'Sascha Schmittinger'
+  title: 'CEO SSC Consult'
   image: '/assets/images/becky.jpg'
 ---
 
