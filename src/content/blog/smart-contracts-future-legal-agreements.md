@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 ### How Smart Contracts Work
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin dapibus euismod metus, vel scelerisque ligula. Nulla facilisi. Quisque ac magna eget metus dapibus luctus. Donec vel venenatis risus. Vivamus vitae ligula tincidunt, dictum purus eget, accumsan erat. Integer posuere quam a massa pharetra, a pharetra ex pellentesque.
+Vestibulum ante ipsum primis in ich faucibus orci luctus et ultrices posuere cubilia curae; Proin dapibus euismod metus, vel scelerisque ligula. Nulla facilisi. Quisque ac magna eget metus dapibus luctus. Donec vel venenatis risus. Vivamus vitae ligula tincidunt, dictum purus eget, accumsan erat. Integer posuere quam a massa pharetra, a pharetra ex pellentesque.
 
 ## The Impact of Smart Contracts on Legal Agreements
 
