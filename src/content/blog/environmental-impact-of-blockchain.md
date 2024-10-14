@@ -7,7 +7,7 @@ slug: 'environmental-impact-of-blockchain'
 author:
   name: 'Sascha Schmittinger'
   title: 'CEO SSC Consult'
-  image: '/assets/images/john.jpg'
+  image: '/assets/images/ich.jpg'
 ---
 
 ## Understanding the Environmental Impact

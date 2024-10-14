@@ -7,7 +7,7 @@ slug: 'blockchain-scalability-challenges-solutions'
 author:
   name: 'Sascha Schmittinger'
   title: 'CEO SSC Consult'
-  image: '/assets/images/alice.jpg'
+  image: '/assets/images/ich.jpg'
 ---
 
 ## Understanding Blockchain Scalability

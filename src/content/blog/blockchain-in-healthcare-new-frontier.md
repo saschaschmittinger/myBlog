@@ -7,7 +7,7 @@ slug: 'blockchain-in-healthcare-new-frontier'
 author:
   name: 'Sascha Schmittinger'
   title: 'CEO SSC Consult'
-  image: '/assets/images/becky.jpg'
+  image: '/assets/images/ich.jpg'
 ---
 
 ## Understanding the Basics of Blockchain in Healthcare

@@ -7,7 +7,7 @@ slug: 'blockchain-interoperability-connecting-networks'
 author:
   name: 'Sascha Schmittinger'
   title: 'CEO SSC Consult'
-  image: '/assets/images/becky.jpg'
+  image: '/assets/images/ich.jpg'
 ---
 
 ## Understanding Blockchain Interoperability

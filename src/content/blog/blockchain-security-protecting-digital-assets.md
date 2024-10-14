@@ -7,7 +7,7 @@ slug: 'blockchain-security-protecting-digital-assets'
 author:
   name: 'Sascha Schmittinger'
   title: 'CEO SSC Consult'
-  image: '/assets/images/john.jpg'
+  image: '/assets/images/ich.jpg'
 ---
 
 ## Understanding the Basics of Blockchain Security

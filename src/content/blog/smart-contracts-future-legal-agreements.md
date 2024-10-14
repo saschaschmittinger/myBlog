@@ -7,7 +7,7 @@ slug: 'smart-contracts-future-legal-agreements'
 author:
   name: 'Sascha Schmittinger'
   title: 'CEO SSC Consult'
-  image: '/assets/images/john.jpg'
+  image: '/assets/images/ich.jpg'
 ---
 
 ## Introduction to Smart Contracts

@@ -7,7 +7,7 @@ slug: 'tokenomics-understanding-blockchain-economics'
 author:
   name: 'Sascha Schmittinger'
   title: 'CEO SSC Consult'
-  image: '/assets/images/alice.jpg'
+  image: '/assets/images/ich.jpg'
 ---
 
 ## Understanding the Basics of Tokenomics
