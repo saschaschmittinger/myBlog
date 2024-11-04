@@ -4,19 +4,19 @@ import { twMerge } from "tailwind-merge";
 const testimonials = [
   {
     text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo iure distinctio vitae, earum quod ea?",
-    name: "Anna Wingender",
+    name: "Anna Wingenscheid",
     title: "Sozialarbeiterin",
     avatarImage: "/assets/images/avatar-erica-wyatt.jpg",
   },
   {
     text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo iure distinctio vitae, earum quod ea?",
-    name: "Lino Schriefer",
+    name: "Lino Schrieferblatt",
     title: "Sozialarbeiter",
     avatarImage: "/assets/images/avatar-harry-bender.jpg",
   },
   {
     text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo iure distinctio vitae, earum quod ea?",
-    name: "Lina Ketelear",
+    name: "Lina Ketelearbaum",
     title: "Sozialarbeiterin",
     avatarImage: "/assets/images/avatar-molly-vaughan.jpg",
   },
