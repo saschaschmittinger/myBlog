@@ -37,8 +37,10 @@ export const HeaderSection = () => {
 				<div className="container">
 					<div className="flex h-24 items-center justify-between md:h-28">
 						<div className="flex items-center justify-center">
-							<img src="/assets/images/logo-template.svg" alt="Logo" />
-							<h3 className="px-2 font-heading text-xl font-black">Sascha Schmittinger</h3>
+							<img src="/assets/images/logo-template.svg" alt="Logo" className="h-6 w-6" />
+							<h3 className="px-2 font-heading text-xl font-black">
+								<span className="text-[#915eff]">Sascha</span> Schmittinger
+							</h3>
 						</div>
 						<div className="flex items-center gap-4">
 							<div className="hidden md:inline-flex">
